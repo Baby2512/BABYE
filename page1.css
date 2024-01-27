@@ -1,0 +1,216 @@
+.itemrgt{
+  display: flex;
+  background-color:white;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.item{
+  display: flex;
+  background-color: white;
+  padding: 20px;
+}
+.pg1{
+  display: flex;
+  background-color:white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.para{
+  text-align: center;
+  font-size:xx-large;
+  background-color:rgb(244, 253, 250);
+  padding: 10px;
+}
+.para2{
+  text-align: center;
+  background-color:rgb(244, 253, 250);
+  padding: 10px;
+}
+.b1{
+  background-color:rgb(244, 253, 250);
+  padding: 20px;
+}
+.cimg{
+  text-align: center;
+  background-color: rgb(244, 253, 250);
+}
+.text{
+  text-align: center;
+  font-size:x-large;
+}
+
+.pg2{
+  display: flex;
+  background-color:white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center;
+  text-align:center;
+}
+.bel{
+  display: flex;
+  background-color:white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+.ppgg22{
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.mc2{
+  display: flex;
+  flex-direction:column;
+  
+}
+.pr{
+  font-size: x-large;
+  text-align: center;
+}
+.button2{
+  background-color: #008CBA;
+  font-size: medium;
+  padding: 15px;
+  width: 110px;
+  
+}
+.page3{
+  font-size: x-large;
+  text-align: center;
+}
+.page4{
+  text-align: center;
+  font-size: x-large;
+}
+.pg4{
+  display: flex;
+  justify-content: space-evenly;
+}
+.p4{
+  display: flex;
+  text-align: center;
+  justify-content:space-evenly;
+   padding: 30px;
+   background-color: rgb(231, 248, 243);
+}
+.pp4{
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+.ps4{
+  font-size: larger;
+}
+.page5{
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  padding: 80px;
+}
+.p5{
+  text-align: center;
+  font-size: x-large;
+}
+.page6{
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.p6{
+  font-size: x-large;
+}
+.button3 {
+  background-color:#008CBA;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  justify-content: space-between;
+}
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+.button3:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.but3{
+  display: flex;
+}
+.page7{
+  text-align: center;
+  font-size: x-large;
+}
+.p7{
+  display: flex;
+  flex-direction: column;
+}
+.pp7{
+  padding: 50px;
+  background-color: rgb(234, 248, 243);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.page8{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 50px;
+  background-color: rgb(37, 34, 34) ;
+}
+.pp8{
+  color:white;
+}
+.p8{
+  color:gray;
+}
+.p9{
+  padding: 7px;
+  background-color: rgb(37, 34, 34) ;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.image1{
+  background-color: rgb(248, 220, 224);
+  padding: 3%;
+}
+.image2{
+  background-color: rgb(224, 196, 224);
+  padding: 3%;
+}
+.image3{
+  background-color: rgb(114, 238, 228);
+  padding: 3%;
+}
+.pgp3{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  justify-content: space-evenly;
+}
+.image4{
+  background-color:plum;
+  padding: 3%;
+}
+.image5{
+  background-color:rgb(247, 217, 247);
+  padding: 3%;
+}
+.image6{
+  background-color:rgb(250, 236, 238);
+  padding: 3%;
+}
+
